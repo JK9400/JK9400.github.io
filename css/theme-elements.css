@@ -4128,6 +4128,8 @@ body.dark .pagination > .active > a {
 	padding: 2rem;
 	position: relative;
 	z-index: 1;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 .card-text-color-hover-light:hover * {
