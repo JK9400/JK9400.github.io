@@ -864,6 +864,7 @@ html[dir="rtl"] .slider-container .line-pre-title {
 @media (max-width: 991px) {
 	#footer .footer-column-get-in-touch {
 		margin: 1rem 0;
+		width: 20%;
 	}
 }
 

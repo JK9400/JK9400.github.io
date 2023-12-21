@@ -625,13 +625,17 @@ body {
 		border-color: var(--primary) !important;
 }
 
-@media (min-width: 992px) {
+@media (max-width: 992px) {
 		/* #header .header-nav-main nav > ul > li.dropdown .dropdown-menu li:hover > a,
 		#header .header-nav-main nav > ul > li.dropdown .dropdown-menu li:focus > a,
 		#header .header-nav-main nav > ul > li.dropdown .dropdown-menu li.active > a,
 		#header .header-nav-main nav > ul > li.dropdown .dropdown-menu li:active > a {
 				color: var(--primary) !important;
 		} */
+	.footer-column {
+		width: 40%;
+		text-align: center;
+	}
 }
 
 @media (max-width: 1200px) {
