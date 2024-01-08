@@ -140,6 +140,7 @@ body {
 
 	h1, h2{
 		text-align: center !important;
+		width: auto;
 	}
   }
 
