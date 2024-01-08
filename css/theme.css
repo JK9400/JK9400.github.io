@@ -3429,7 +3429,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 	#header .header-nav-main {
 		position: absolute;
 		background: transparent;
-		width: 100%;
+		width: 100vw;
 		top: 100%;
 		left: 50%;
 		transform: translate3d(-50%, 0, 0);

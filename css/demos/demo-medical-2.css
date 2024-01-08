@@ -648,7 +648,7 @@ body {
     .header-column {
         width: 100%;
         text-align: center;
-        margin-bottom: 20px; /* Adjust as needed */
+        margin-bottom: 20px; 
     }
 
     .header-column-logo {
@@ -665,12 +665,12 @@ body {
 }
 
 @media (max-width: 520px) {
-	/* Add your stacking styles for the elements here */
-	/* For example, if you want to stack div elements */
-	.centerdFooter {
-	  /* Add styles for stacking */
-	  display: block;
-	  /* You may need to adjust other properties like width, padding, etc., to fit your layout */
+	.centeredFooter {
+	  	display: block;
 	}
-  }
+	.hideNavBar {
+		display: none;
+	}
+}
+
   
