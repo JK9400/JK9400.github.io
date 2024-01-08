@@ -682,3 +682,14 @@ body {
 		padding-top: 5%;
 	}
 }
+
+@media (max-width: 520px) {
+	/* Add your stacking styles for the elements here */
+	/* For example, if you want to stack div elements */
+	.centerdFooter {
+	  /* Add styles for stacking */
+	  display: block;
+	  /* You may need to adjust other properties like width, padding, etc., to fit your layout */
+	}
+  }
+  
